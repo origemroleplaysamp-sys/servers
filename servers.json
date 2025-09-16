@@ -1,9 +1,16 @@
-[ { 
-  "color": "FFFFFF", 
-  "dopname": "(BETA)", 
-  "maxonline": 1000, 
-  "name": "ORIGEM ROLEPLAY", 
-  "online": 1000, 
-  "host": "51.81.59.76", 
-  "port": 17566 
-} ]
+[
+    {
+      "color": "9E9EFF",
+      "dopname": "(Breve)",
+      "maxonline": 500,
+      "name": "Origem RPG",
+      "online": 8
+    },
+    {
+      "color": "9E9EFF",
+      "dopname": "",
+      "maxonline": 500,
+      "name": "Origem Roleplay",
+      "online": 3
+    }
+  ]
