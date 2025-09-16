@@ -1,47 +1,12 @@
 [
+    
     {
       "color": "FFFFFF",
-      "dopname": "(Beta)",
+      "dopname": "(X2 АКЦИИ)",
       "maxonline": 1000,
-      "name": "ORIGEM ROLEPLAY",
+      "name": "UNIVERSAL",
       "online": 50,
-      "host": "51.81.59.76",
-      "port": 17566
-    },
-    {
-      "color": "FFFFFF",
-      "dopname": "(Breve)",
-      "maxonline": 1000,
-      "name": "Indisponivel",
-      "online": 50,
-      "host": "51.81.59.76",
-      "port": 1728
-    },
-    {
-      "color": "FFFFFF",
-      "dopname": "(Breve)",
-      "maxonline": 1000,
-      "name": "Indisponivel",
-      "online": 50,
-      "host": "51.81.59.76",
-      "port": 1728
-    },
-    {
-      "color": "FFFFFF",
-      "dopname": "(Breve)",
-      "maxonline": 1000,
-      "name": "Indisponivel",
-      "online": 50,
-      "host": "51.81.59.76",
-      "port": 1728
-    },
-    {
-      "color": "FFFFFF",
-      "dopname": "(Breve)",
-      "maxonline": 1000,
-      "name": "Indisponivel",
-      "online": 50,
-      "host": "51.81.59.76",
-      "port": 1728
+      "host": "141.94.184.111",
+      "port": 1717
     }
   ]
