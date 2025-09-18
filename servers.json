@@ -1,18 +1,9 @@
 [
     {
-      "color": "FF0000",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "RED",
-      "online": 2,
-      "ip": "45.143.7.24",
-      "port": 7777
-    },
-    {
       "color": "FFFF00",
-      "dopname": "(X2)",
+      "dopname": "(BETA)",
       "maxonline": 1000,
-      "name": "YELLOW",
+      "name": "ORIGEM ROLEPLAY",
       "online": 2,
       "ip": "51.81.59.76",
       "port": 17566
