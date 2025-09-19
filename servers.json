@@ -1,11 +1,21 @@
 [
+    
     {
-      "color": "FFFF00",
-      "dopname": "(BETA)",
-      "maxonline": 1000,
-      "name": "ORIGEM ROLEPLAY",
-      "online": 2,
-      "ip": "51.81.59.76",
-      "port": 17566
+      "x2": "true",
+      "name": "Cidade dos Anjos #1",
+      "online": 4,
+      "maxonline": 500
+    },
+    {
+      "x2": "false",
+      "name": "Cidade dos Anjos #2",
+      "online": 0,
+      "maxonline": 500
+    },
+    {
+      "x2": "false",
+      "name": "Cidade dos Anjos #3",
+      "online": 0,
+      "maxonline": 1000
     }
 ]
