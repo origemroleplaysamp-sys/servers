@@ -4,25 +4,25 @@
       "port": 7777,
       "x2": "true",
       "name": "Cidade Dos Anjos Roleplay",
-      "online": 2,
+      "online": 56,
       "maxonline": 1000
     },
 
      {
-      "ip": "56.897.87",
-      "port": 13,
+      "ip": "45.143.7.24",
+      "port": 7777,
       "x2": "true",
       "name": "Em Breve",
-      "online": 1000,
+      "online": 0,
       "maxonline": 1000
     },
 
      {
-      "ip": "28.82.83",
+      "ip": "45.143.7.24",
       "port": 13,
       "x2": "true",
       "name": "Em Breve",
-      "online": 1000,
+      "online": 0,
       "maxonline": 1000
     }
  ]
