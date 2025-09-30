@@ -4,7 +4,7 @@
     "maxonline": "1000",
     "color": "878787",
     "x2": "false",
-    "key": "105032",
+    "key": "1424",
     "name": "CIDADE DOS ANJOS",
     "firstname": "RP",
     "secondname": "",
@@ -17,7 +17,7 @@
     "maxonline": "1000",
     "color": "878787",
     "x2": "false",
-    "key": "105032",
+    "key": "1424",
     "name": "SERVIDOR TESTES",
     "firstname": "TESTES",
     "secondname": "",
@@ -1149,11 +1149,11 @@
     "color": "3885E9",
     "x2": "false",
     "key": "1424",
-    "name": "BLACK RUSSIA | CHEREPOVETS",
-    "firstname": "CHEREPOVETS",
-    "secondname": "",
+    "name": "CIDADE DOS ANJOS",
+    "firstname": "CIDADE DOS ANJOS",
+    "secondname": "ROLEPLAY",
     "url": "cherepovets.blackrussia.online",
-    "ip": "80.66.82.153",
-    "port": "5125"
+    "ip": "45.143.7.24",
+    "port": "7777"
   }
 ]
