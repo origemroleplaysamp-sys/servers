@@ -1,4 +1,4 @@
-[
+k[
   {
     "online": "46",
     "maxonline": "1000",
@@ -1133,11 +1133,11 @@
   {
     "online": "823",
     "maxonline": "1300",
-    "color": "878787",
+    "color": "FF0000",
     "x2": "false",
     "key": "1424",
-    "name": "S2",
-    "firstname": "SS2",
+    "name": "SERVIDOR TESTES",
+    "firstname": "SERVIDOR TESTES",
     "secondname": "",
     "url": "vin2.lemehost.com",
     "ip": "51.81.59.76",
@@ -1146,11 +1146,11 @@
   {
     "online": "56",
     "maxonline": "1300",
-    "color": "00A8FF",
+    "color": "3BAD07",
     "x2": "false",
     "key": "1424",
-    "name": "S1",
-    "firstname": "SS1",
+    "name": "CIDADE DOS ANJOS",
+    "firstname": "CIDADE DOS ANJOS",
     "secondname": "ROLEPLAY",
     "url": "45.143.7.24",
     "ip": "45.143.7.24",
